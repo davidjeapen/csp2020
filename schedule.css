@@ -1,5 +1,5 @@
 body{
-	font-family: "Marker Felt", "Comic Sans MS", fantasy;
+	font-family: "Impact", "Charcoal";
 	color: #003366;
 }
 h1 {
@@ -13,8 +13,8 @@ table {
 	border-collapse: collapse;
 }
 tr {
-	border: 1px solid #ffffff;
-	text-align: center;
+	border: 1px solid #000000;
+	text-align: left;
 	background-color:#9FB6CD;
 }
 th {
@@ -26,4 +26,9 @@ hyperlink {
 	font-family: "Times New Roman", "Serif";
 
 
+}
+
+td {
+  border: 1px solid #000000;
+  padding: 10px 15px;
 }
